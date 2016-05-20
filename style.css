@@ -1,7 +1,8 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #abcdef;
+	font-family : arial ;
 }
 
 #header
